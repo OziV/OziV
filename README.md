@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
-👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
 </p>
 
 <h3 align="left">Connect with me:</h3>
