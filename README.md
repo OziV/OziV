@@ -5,9 +5,9 @@
   👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
 </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/oz-ziv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oz-ziv" height="30" width="40" /></a>
+  👨‍💻 All of my projects are available at
+<a href="https://linkedin.com/in/oz-ziv" target="blank">https://linkedin.com/in/oz-ziv</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
