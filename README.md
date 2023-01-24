@@ -1,9 +1,9 @@
 <h1 align="center">👋 I'm Oz</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<div align="center"> 
+<span align="center"> 
   - 👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
-</div>
+</span>
 
 
 <h3 align="left">Connect with me:</h3>
