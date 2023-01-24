@@ -2,8 +2,6 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
-</p>
 
 👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
 
@@ -18,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oziv&show_icons=true&locale=en&layout=compact" alt="oziv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oziv&show_icons=true&locale=en" alt="oziv" /></p>
+
+</p>
