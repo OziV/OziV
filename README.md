@@ -21,12 +21,6 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oziv&show_icons=true&locale=en&layout=compact" alt="oziv" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oziv&show_icons=true&locale=en" alt="oziv" /></p>
- -->
- 
  <p align="center"><br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oziv&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oziv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
