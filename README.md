@@ -2,12 +2,8 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
-  👨‍💻 All of my projects are available at [https://oziv.netlify.app/](https://oziv.netlify.app/)
-</p>
-
-<p align="center">
   👨‍💻 All of my projects are available at
-<a href="https://linkedin.com/in/oz-ziv" target="blank">https://linkedin.com/in/oz-ziv</a>
+  <a href="https://oziv.netlify.app/" target="blank">https://oziv.netlify.app/</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
